@@ -1,0 +1,44 @@
+{ "result": [
+    {
+      "id": "123",
+      "product": {
+        "model": {
+          "property": {
+            "battery": "li-ion",
+            "device": "iOT-Device",
+            "pressure": "1012",
+            "up_time": "02:12:34"
+          }
+        }
+      },
+      "status": "In-Stock"
+    },
+    {
+      "id": "124",
+      "product": {
+        "model": {
+          "property": {
+            "battery": "xli-ion",
+            "device": "xiOT-Device",
+            "pressure": "x1012",
+            "up_time": "02:12:34"
+          }
+        }
+      },
+      "status": "In-Stock"
+    },
+    {
+      "id": "125",
+      "product": {
+        "model": {
+          "property": {
+            "battery": "nli-ion",
+            "device": "niOT-Device",
+            "pressure": "n1012",
+            "up_time": "02:12:34"
+          }
+        }
+      },
+      "status": "Out-of-Stock"
+    }
+  ]}
